@@ -56,12 +56,12 @@ This GitHub showcases my networking projects, embedded systems, and continuous l
 
 ## Academic Projects
 
-- 🏫 Enterprise Campus Network using GNS3
-- 🤖 Portable AI Embedded Training System Kit
-- 🔥 Heatseeker R5 – Automatic Fire Fighting Robot
-- 🦯 Smart Blind Stick
-- ❤️ Heart Rate & Stress Level Monitoring System
-- 💡 Digital Logic and Circuit Design Projects
+-  Enterprise Campus Network using GNS3
+-  Portable AI Embedded Training System Kit
+-  Heatseeker R5 – Automatic Fire Fighting Robot
+-  Smart Blind Stick
+-  Heart Rate & Stress Level Monitoring System
+-  Digital Logic and Circuit Design Projects
 
 ---
 
